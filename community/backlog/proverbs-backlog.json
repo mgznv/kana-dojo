@@ -907,7 +907,7 @@
     "romaji": "Hayaoki wa sanmon no toku",
     "english": "Early rising is worth three coins",
     "meaning": "Getting up early brings benefits",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -916,7 +916,7 @@
     "romaji": "Nido aru koto wa sando aru",
     "english": "What happens twice will happen a third time",
     "meaning": "Patterns tend to repeat",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -926,7 +926,7 @@
     "english": "Kindness is not for others",
     "meaning": "Good deeds return to you",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 104,
@@ -934,7 +934,7 @@
     "romaji": "Issun saki wa yami",
     "english": "An inch ahead is darkness",
     "meaning": "The future is uncertain",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -943,7 +943,7 @@
     "romaji": "Seite wa koto wo shisonjiru",
     "english": "Haste will spoil things",
     "meaning": "Rushing leads to mistakes",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -953,7 +953,7 @@
     "english": "Hurry to do good",
     "meaning": "Do worthwhile things promptly",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 107,
