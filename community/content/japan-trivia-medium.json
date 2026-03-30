@@ -291,5 +291,11 @@
     "difficulty": "medium",
     "answers": ["Nara", "Yokohama", "Kobe", "Nagoya"],
     "correctIndex": 0
+  },
+  {
+  "question": "Which of these is a traditional Japanese tea ceremony called?",
+  "difficulty": "easy",
+  "answers": ["Sado", "Sumo", "Origami", "Haiku"],
+  "correctIndex": 0
   }
 ]
